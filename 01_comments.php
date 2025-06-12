@@ -8,3 +8,5 @@ Multiline comment
 with some
 long text
 */
+
+/* test */
